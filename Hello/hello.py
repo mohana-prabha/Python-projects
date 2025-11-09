@@ -1,6 +1,6 @@
 def factorial(n):
     if n == 0:
-        return:
+        return
     else:
         return n*factorial(n-1)
       
